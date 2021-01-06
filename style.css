@@ -1,0 +1,40 @@
+body{
+    font-family: 'Telex', sans-serif;
+
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.name-heighlight{
+    color: green;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    margin-left: 20%;
+}
+section{
+    height: 50%;
+    padding-bottom: 150px;
+}
+.button{
+    text-decoration:  none;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(45deg, blue, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
